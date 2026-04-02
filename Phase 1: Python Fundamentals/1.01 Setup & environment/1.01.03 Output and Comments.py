@@ -2,7 +2,8 @@
 2.00 Output and Comments
 
 This script demonstrates two fundamental aspects of Python programming: 
-outputting data using the `print()` function, and writing code comments to explain your logic.
+outputting data using the `print()` function, and writing code comments to 
+explain your logic.
 """
 
 # ==============================================================================
@@ -105,5 +106,4 @@ def add(a, b):
     """Return the sum of a and b."""
     return a + b
 
-# End of script. Run this file in your terminal using:
-# python "2.00 Output and Comments.py"
+
