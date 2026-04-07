@@ -1,5 +1,0 @@
-# *args      = allows you to pass multiple non-key arguments
-# **kwargs   = allows you to pass mutiple keyword-arguments
-#              * unpacking operator
-#              1. Positional, 2. Default, 3. Keyword, 4. ARBITARY
-
